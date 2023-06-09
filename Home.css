@@ -206,20 +206,36 @@
   .u-section-1 .u-image-1 {
     width: 280px;
     min-height: 149px;
-    margin-top: 46px;
+    --animation-custom_in-translate_x: 0px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    margin-top: 77px;
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 1.5rem;
-    width: 340px;
-    margin-top: 11px;
+    font-size: 1.125rem;
+    width: 259px;
+    --animation-custom_in-translate_x: 0px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    margin-top: 23px;
   }
 
   .u-section-1 .u-text-2 {
-    font-size: 1.125rem;
-    margin-top: 31px;
-    margin-right: calc(((100% - 340px) / 2) + -35px);
-    margin-left: calc(((100% - 340px) / 2) + -19px);
+    font-size: 1rem;
+    width: 324px;
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    margin-top: 19px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-1 .u-layout-wrap-1 {
@@ -238,6 +254,11 @@
 
   .u-section-1 .u-btn-1 {
     font-size: 0.625rem;
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
     margin-top: 32px;
     margin-right: auto;
     padding-right: 23px;
@@ -255,6 +276,11 @@
 
   .u-section-1 .u-btn-2 {
     font-size: 0.625rem;
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
     margin-top: 32px;
     margin-right: auto;
     padding-left: 20px;
