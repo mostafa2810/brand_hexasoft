@@ -181,8 +181,6 @@
 
   .u-section-1 .u-image-1 {
     width: 195px;
-    left: 39px;
-    right: auto;
     margin-top: initial;
     margin-bottom: initial;
     height: auto;
@@ -412,12 +410,12 @@
 
 @media (max-width: 991px) {
    .u-section-2 {
-    min-height: 1141px;
+    min-height: 1155px;
   }
 
   .u-section-2 .u-list-1 {
     width: 720px;
-    margin-bottom: 0;
+    margin-bottom: 14px;
   }
 
   .u-section-2 .u-repeater-1 {
@@ -468,23 +466,28 @@
 
 @media (max-width: 575px) {
    .u-section-2 {
-    min-height: 1662px;
+    min-height: 1712px;
   }
 
   .u-section-2 .u-group-1 {
     min-height: 215px;
     width: 293px;
+    margin-top: 23px;
     margin-left: auto;
     margin-right: auto;
   }
 
   .u-section-2 .u-text-1 {
     font-size: 2.25rem;
+    width: auto;
+    margin-top: 5px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-2 .u-list-1 {
     width: 293px;
-    margin-top: -32px;
+    margin-top: -55px;
     margin-bottom: 8px;
   }
 
@@ -792,11 +795,12 @@
 
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 922px;
+    min-height: 923px;
   }
 
   .u-section-3 .u-layout-wrap-1 {
-    margin-top: 1px;
+    margin-top: 32px;
+    margin-bottom: 19px;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -827,6 +831,11 @@
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
     min-height: 1049px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 26px;
+    margin-bottom: 26px;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -860,16 +869,16 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 1449px;
+    min-height: 1314px;
   }
 
   .u-section-3 .u-layout-wrap-1 {
-    width: 272px;
-    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
   }
 
   .u-section-3 .u-layout-cell-1 {
-    min-height: 584px;
+    min-height: 497px;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -890,7 +899,7 @@
   }
 
   .u-section-3 .u-layout-cell-2 {
-    min-height: 865px;
+    min-height: 737px;
   }
 
   .u-section-3 .u-container-layout-2 {
