@@ -2580,21 +2580,22 @@
   }
 
   .u-section-6 .u-text-1 {
-    width: 342px;
-    margin-left: auto;
-    margin-right: auto;
+    font-size: 1.5rem;
+    margin-left: 25px;
+    margin-right: 25px;
   }
 
   .u-section-6 .u-text-2 {
+    font-size: 0.875rem;
     width: auto;
     margin-left: 22px;
     margin-right: 22px;
   }
 
   .u-section-6 .u-group-1 {
-    width: 250px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-6 .u-text-3 {
