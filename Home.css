@@ -2,7 +2,6 @@
   background-image: url("images/BluePurpleOrangeCartoonPlayfulWebSoftwareDevelopmentAnnouncementBanner2-min.png");
   min-height: 964px;
   background-position: 50% 50%;
-  overflow: hidden;
 }
 
 .u-section-1 .u-image-1 {
@@ -12,7 +11,6 @@
   background-image: url("images/HS4.png");
   background-position: 50% 50%;
   margin: 86px auto 0;
-  overflow: hidden;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -91,7 +89,6 @@
   .u-section-1 .u-image-1 {
     margin-top: 69px;
     height: auto;
-    overflow: hidden;
   }
 
   .u-section-1 .u-text-1 {
@@ -117,7 +114,6 @@
 @media (max-width: 991px) {
    .u-section-1 {
     min-height: 881px;
-    overflow: hidden;
   }
 
   .u-section-1 .u-image-1 {
@@ -150,12 +146,10 @@
 @media (max-width: 767px) {
    .u-section-1 {
     min-height: 1001px;
-    overflow: hidden;
   }
 
   .u-section-1 .u-image-1 {
     margin-top: 126px;
-    
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -207,7 +201,6 @@
 @media (max-width: 575px) {
    .u-section-1 {
     min-height: 707px;
-    overflow: hidden;
   }
 
   .u-section-1 .u-image-1 {
